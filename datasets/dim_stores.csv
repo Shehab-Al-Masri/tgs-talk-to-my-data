@@ -1,0 +1,11 @@
+store_id,city,store_type,floor_size_sqm
+ST-001,Amsterdam,Flagship,1200
+ST-002,Rotterdam,Flagship,1000
+ST-003,The Hague,Standard,600
+ST-004,Utrecht,Standard,650
+ST-005,Eindhoven,Standard,700
+ST-006,Groningen,Standard,500
+ST-007,Tilburg,Mall,400
+ST-008,Almere,Mall,450
+ST-009,Breda,Mall,350
+ST-010,Nijmegen,Mall,300
